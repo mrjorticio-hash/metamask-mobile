@@ -7,7 +7,7 @@
   "javascript.preferences.importModuleSpecifier": "relative",
   "typescript.preferences.importModuleSpecifier": "relative",
 
-  // Tailwind CSS configuration
+  
   "tailwindCSS.includeLanguages": {
     "javascript": "javascript",
     "typescript": "typescript",
@@ -25,6 +25,4 @@
   "tailwindCSS.colorDecorators": true,
   "editor.quickSuggestions": {
     "strings": true
-  -OP
-  
-_
+  }
